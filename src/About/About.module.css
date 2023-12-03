@@ -1,0 +1,15 @@
+.about{
+    width:100vw;
+    max-width: 90%;
+    height: (100% - 4rem);
+    margin: 0px auto;
+    padding: 2rem 4rem;
+}
+
+.aboutContent{
+    text-align: center;
+}
+
+.aboutContent h2 {
+    font-size: 34px;
+}

@@ -1,32 +1,32 @@
 .intro{
-    width: 100%;
+    width:100%;
     max-width: 90%;
-    height:(100vh - 4rem);
-    margin: 0px auto;
+    height: (100% - 4rem);
     padding: 2rem 4rem;
+    margin:0px auto;
     overflow: hidden;
 }
 
-.introContent {
+.introContent{
     display: flex;
     flex-direction: column;
     justify-content: center;
-    height: 80vh;
-    width: 100vw;
+    width:100vw;
+    height: 60vh;
 }
 
-.hello {
-    font-size: 24px;
+.hello{
+    font-size:24px;
 }
 
-.introText {
+.introText{
     font-size: 32px;
 }
 
 .hirebtn{
+    background-color: #fff;
     border: none;
     border-radius: 5px;
     padding: 0.5rem 1rem;
-    margin: 1rem 0;
-    cursor: pointer;
+    margin:1rem 0;
 }
